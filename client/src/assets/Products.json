@@ -1,0 +1,60 @@
+{
+  "PRODUCTS": [
+    {
+      "id": 1,
+      "name": "Halter Sextavado 5kg",
+      "category": "equipamentos",
+      "price": 89.9,
+      "image": "https://images.unsplash.com/photo-1641582858581-7eb78baec60d?q=80&w=2157&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "desc": "Ferro fundido revestido com polímero de alta densidade. Pegada ergonómica recartilhada para máximo grip."
+    },
+    {
+      "id": 2,
+      "name": "Whey Protein Isolate",
+      "category": "suplementos",
+      "price": 149.9,
+      "image": "https://images.unsplash.com/photo-1593095948071-474c5cc2989d?q=80&w=400&auto=format&fit=crop",
+      "desc": "90% de proteína por dose. Zero lactose, absorção ultra rápida. Sabor Chocolate Dark Premium."
+    },
+    {
+      "id": 3,
+      "name": "Camiseta Compression",
+      "category": "roupas",
+      "price": 59.9,
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?q=80&w=400&auto=format&fit=crop",
+      "desc": "Tecido tecnológico de compressão graduada. Melhora a oxigenação muscular e acelera a recuperação."
+    },
+    {
+      "id": 4,
+      "name": "Kit Bands Pro",
+      "category": "acessorios",
+      "price": 45.0,
+      "image": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?q=80&w=400&auto=format&fit=crop",
+      "desc": "Conjunto com 5 níveis de resistência. Látex 100% natural com ultra durabilidade."
+    },
+    {
+      "id": 5,
+      "name": "Ténis Stealth Run",
+      "category": "roupas",
+      "price": 299.9,
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?q=80&w=400&auto=format&fit=crop",
+      "desc": "Amortecimento responsivo e tracção multidirecional. Design otimizado para sprints de alta intensidade."
+    },
+    {
+      "id": 6,
+      "name": "Creatina Pure",
+      "category": "suplementos",
+      "price": 79.9,
+      "image": "https://images.unsplash.com/photo-1550989460-0adf9ea622e2?q=80&w=400&auto=format&fit=crop",
+      "desc": "Monohidratada micronizada de pureza farmacêutica. Aumento comprovado de força e explosão."
+    },
+    {
+      "id": 7,
+      "name": "Esteira Black Series",
+      "category": "equipamentos",
+      "price": 1899.0,
+      "image": "https://images.unsplash.com/photo-1540497077202-7c8a3999166f?q=80&w=400&auto=format&fit=crop",
+      "desc": "Motor de 3.0 HP real. Sistema de absorção de impacto ProShox. Painel LED interativo."
+    }
+  ]
+}

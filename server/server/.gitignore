@@ -1,0 +1,21 @@
+# --- [ BINÁRIOS E BUILD ] ---
+[Bb]in/
+[Oo]bj/
+[Log]s/
+*.user
+*.userosscache
+*.sln.docstates
+publish/
+approot/
+
+# --- [ BANCO DE DADOS LOCAL ] ---
+*.db
+*.db-shm
+*.db-wal
+
+# --- [ SEGURANÇA E IDE ] ---
+usersecrets.json
+.vs/
+.vscode/
+.env
+.env.*
