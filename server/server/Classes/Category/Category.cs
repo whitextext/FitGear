@@ -4,8 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-namespace server
+namespace server.Classes.Categorie
 {
     class Category
     {
@@ -13,7 +12,7 @@ namespace server
         private string s_NM_Categorie = string.Empty;
         private string s_Slug_Categorie = string.Empty;
         private bool b_IsActive_Categorie = false;
-        
+
         public int ICodCategorie
         {
             get => i_Cod_Category;
