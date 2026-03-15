@@ -10,7 +10,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy("front-end", policy =>
     {
-        policy.WithOrigins("http://localhost:5173") // Substitua pela porta do seu Vite/React
+        policy.WithOrigins("http://localhost:5173")
               .AllowAnyHeader()
               .AllowAnyMethod();
     });
